@@ -42,3 +42,8 @@ run cleanup immediately afterwards.
 | Permission denied (publickey) | Key file, `ec2-user`, IdentityFile (routing is fine if you got this far) |
 | Bastion IP changed after stop/start | Update `HostName` in `~/.ssh/config` |
 | Your home IP changed | Update the ewb-sg-bastion rule |
+
+## Author
+
+**Prince Raj**  
+Email: `princerajsinha979@gmail.com`
