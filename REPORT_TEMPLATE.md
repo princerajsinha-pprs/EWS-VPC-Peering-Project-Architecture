@@ -1,7 +1,7 @@
 # AWS VPC Peering - Project Report
 **Name:** Prince raj  **Batch:** 1.1  **Region:** India  **Completed:** ____________
 
-Export this to PDF as `YourName_EWB_VPC_Peering.pdf`. Do not include the .pem key, passwords or tokens.
+Export this to PDF as `princeRaj_EWB_VPC_Peering.pdf`. Do not include the .pem key, passwords or tokens.
 
 ## 1. Architecture and inventory
 Diagram: laptop -> IGW (VPC A) -> bastion (10.10.1.10) -> App-A (10.10.2.10) / App-B (10.20.1.10) via pcx.
